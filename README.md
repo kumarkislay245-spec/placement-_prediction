@@ -66,30 +66,28 @@ This project uses a **Logistic Regression** model trained on student academic an
 Before model training, the placement dataset was explored using an interactive Power BI dashboard to identify the strongest predictors of placement outcomes.
 
 **Home — Key Metrics Overview**
-![Dashboard Home](screenshots/dashboard_home.png)
+![Dashboard Home](Screenshot 2026-07-01 215136.png)
 
 **Academics — CGPA & Marks vs Placement**
-![Academics Analysis](screenshots/dashboard_academics.png)
+![Academics Analysis](Screenshot 2026-06-29 134839.png)
 
 **Skills — Technical Skills, Communication & Internship Impact**
-![Skills Analysis](screenshots/dashboard_skills.png)
+![Skills Analysis](Screenshot 2026-06-29 134849.png)
 
 **Projects — Projects, Workshops & Hackathons vs Placement**
-![Projects Analysis](screenshots/dashboard_projects.png)
+![Projects Analysis](Screenshot 2026-06-29 134857.png)
 
 **Insights — Deciding Factors for Placement**
-![Insights](screenshots/dashboard_insights.png)
+![Insights](Screenshot 2026-06-29 134905.png)
 
 **Action — Recommended Steps for Better Placement Chances**
-![Action Steps](screenshots/dashboard_action.png)
+![Action Steps](Screenshot 2026-07-01 214958.png)
 
 ### Key EDA Findings
 - Students with **CGPA ≥ 8** show a significantly higher placement rate compared to lower CGPA bands.
 - **3+ completed projects** and **internship experience** strongly correlate with placement, sometimes compensating for a moderately lower CGPA.
 - **Hackathon participation** and **regular workshop attendance** show a positive association with placement outcomes.
 - These patterns align with the trained Logistic Regression model's coefficients, where `education`, `total_experience`, and `skills` carry meaningful positive weight toward placement probability.
-
-> 📌 *Dashboard built in Power BI. [Add live "Publish to Web" link here if available, or note that the `.pbix` file is available on request.]*
 
 ---
 
@@ -98,7 +96,7 @@ Before model training, the placement dataset was explored using an interactive P
 The full data cleaning, feature engineering, and model training process (including GridSearchCV hyperparameter tuning for the Logistic Regression model) is available in:
 
 ```
-notebooks/placement_model_training.ipynb
+Placement (2).ipynb
 ```
 
 This notebook covers:

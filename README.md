@@ -96,7 +96,8 @@ Before model training, the placement dataset was explored using an interactive P
 The full data cleaning, feature engineering, and model training process (including GridSearchCV hyperparameter tuning for the Logistic Regression model) is available in:
 
 ```
-Placement (2).ipynb
+https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Placement%20(2).ipynb
+
 ```
 
 This notebook covers:

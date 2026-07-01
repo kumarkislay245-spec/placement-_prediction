@@ -1,0 +1,2626 @@
+{
+  "BIOTECH": [
+    {
+      "company": "Wayspire",
+      "min_cgpa": 4.92,
+      "avg_cgpa": 4.97,
+      "avg_ctc": 7.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Sri Chaitanya",
+      "min_cgpa": 5.6,
+      "avg_cgpa": 5.6,
+      "avg_ctc": 5.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Sri%20Chaitanya%20official%20website"
+    },
+    {
+      "company": "Datawrkz Electronics",
+      "min_cgpa": 5.77,
+      "avg_cgpa": 6.58,
+      "avg_ctc": 6.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Datawrkz%20Electronics%20official%20website"
+    },
+    {
+      "company": "Allen",
+      "min_cgpa": 6.19,
+      "avg_cgpa": 7.24,
+      "avg_ctc": 6.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Allen%20official%20website"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 7.31,
+      "avg_cgpa": 7.7,
+      "avg_ctc": 13.74,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 7.35,
+      "avg_cgpa": 7.35,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "DCM Shriram",
+      "min_cgpa": 7.36,
+      "avg_cgpa": 7.36,
+      "avg_ctc": 18.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=DCM%20Shriram%20official%20website"
+    },
+    {
+      "company": "ZingHR",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.47,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=ZingHR%20official%20website"
+    },
+    {
+      "company": "Saviynt",
+      "min_cgpa": 7.48,
+      "avg_cgpa": 7.48,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Saviynt%20official%20website"
+    },
+    {
+      "company": "ZS Associates",
+      "min_cgpa": 7.56,
+      "avg_cgpa": 7.56,
+      "avg_ctc": 13.65,
+      "offers": 1,
+      "website": "https://www.zs.com/careers"
+    },
+    {
+      "company": "Tudip Technologies",
+      "min_cgpa": 7.59,
+      "avg_cgpa": 7.59,
+      "avg_ctc": 7.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Tudip%20Technologies%20official%20website"
+    },
+    {
+      "company": "Anakin",
+      "min_cgpa": 7.61,
+      "avg_cgpa": 7.61,
+      "avg_ctc": 15.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Anakin%20official%20website"
+    },
+    {
+      "company": "Nine Education",
+      "min_cgpa": 7.65,
+      "avg_cgpa": 7.65,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Nine%20Education%20official%20website"
+    },
+    {
+      "company": "Pharma Ace",
+      "min_cgpa": 7.85,
+      "avg_cgpa": 7.87,
+      "avg_ctc": 8.6,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Pharma%20Ace%20official%20website"
+    },
+    {
+      "company": "Axis Bank",
+      "min_cgpa": 8.05,
+      "avg_cgpa": 8.05,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.axisbank.com/careers"
+    },
+    {
+      "company": "GDI",
+      "min_cgpa": 8.09,
+      "avg_cgpa": 8.09,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=GDI%20official%20website"
+    },
+    {
+      "company": "NSE",
+      "min_cgpa": 8.16,
+      "avg_cgpa": 8.16,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.nseindia.com/national-stock-exchange/careers"
+    },
+    {
+      "company": "Diageo",
+      "min_cgpa": 8.56,
+      "avg_cgpa": 8.56,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://www.diageo.com/en/careers/"
+    },
+    {
+      "company": "Qwixpert",
+      "min_cgpa": 8.58,
+      "avg_cgpa": 8.58,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Qwixpert%20official%20website"
+    },
+    {
+      "company": "LaunchX Labs",
+      "min_cgpa": 9.11,
+      "avg_cgpa": 9.11,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=LaunchX%20Labs%20official%20website"
+    }
+  ],
+  "CHEM": [
+    {
+      "company": "Wayspire",
+      "min_cgpa": 4.88,
+      "avg_cgpa": 5.35,
+      "avg_ctc": 7.0,
+      "offers": 6,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Raam Group",
+      "min_cgpa": 5.62,
+      "avg_cgpa": 5.62,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Raam%20Group%20official%20website"
+    },
+    {
+      "company": "Gatik Jr College",
+      "min_cgpa": 6.0,
+      "avg_cgpa": 6.0,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Gatik%20Jr%20College%20official%20website"
+    },
+    {
+      "company": "Niyo Solutions",
+      "min_cgpa": 6.02,
+      "avg_cgpa": 6.02,
+      "avg_ctc": 18.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Niyo%20Solutions%20official%20website"
+    },
+    {
+      "company": "Kratikal Tech",
+      "min_cgpa": 6.23,
+      "avg_cgpa": 6.23,
+      "avg_ctc": 9.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Kratikal%20Tech%20official%20website"
+    },
+    {
+      "company": "Spinny",
+      "min_cgpa": 6.31,
+      "avg_cgpa": 6.31,
+      "avg_ctc": 5.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Spinny%20official%20website"
+    },
+    {
+      "company": "RIL",
+      "min_cgpa": 6.34,
+      "avg_cgpa": 7.09,
+      "avg_ctc": 8.0,
+      "offers": 5,
+      "website": "https://www.ril.com/careers"
+    },
+    {
+      "company": "Mahindra Finance",
+      "min_cgpa": 6.55,
+      "avg_cgpa": 6.55,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.mahindrafinance.com/careers"
+    },
+    {
+      "company": "Paltech",
+      "min_cgpa": 6.59,
+      "avg_cgpa": 7.15,
+      "avg_ctc": 8.8,
+      "offers": 5,
+      "website": "https://www.google.com/search?q=Paltech%20official%20website"
+    },
+    {
+      "company": "Telangana Gas",
+      "min_cgpa": 6.82,
+      "avg_cgpa": 6.9,
+      "avg_ctc": 12.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Telangana%20Gas%20official%20website"
+    },
+    {
+      "company": "NSE",
+      "min_cgpa": 6.83,
+      "avg_cgpa": 7.55,
+      "avg_ctc": 8.0,
+      "offers": 3,
+      "website": "https://www.nseindia.com/national-stock-exchange/careers"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 6.94,
+      "avg_cgpa": 6.94,
+      "avg_ctc": 13.74,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "Axis Bank",
+      "min_cgpa": 7.04,
+      "avg_cgpa": 7.04,
+      "avg_ctc": 8.2,
+      "offers": 1,
+      "website": "https://www.axisbank.com/careers"
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "min_cgpa": 7.06,
+      "avg_cgpa": 7.06,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.hyperpure.com/careers"
+    },
+    {
+      "company": "Quadrant Technologies",
+      "min_cgpa": 7.14,
+      "avg_cgpa": 7.14,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quadrant%20Technologies%20official%20website"
+    },
+    {
+      "company": "Tredence",
+      "min_cgpa": 7.17,
+      "avg_cgpa": 7.4,
+      "avg_ctc": 10.67,
+      "offers": 3,
+      "website": "https://www.tredence.com/careers"
+    },
+    {
+      "company": "ZL Tech",
+      "min_cgpa": 7.18,
+      "avg_cgpa": 7.18,
+      "avg_ctc": 11.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=ZL%20Tech%20official%20website"
+    },
+    {
+      "company": "Accordian",
+      "min_cgpa": 7.19,
+      "avg_cgpa": 7.36,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Accordian%20official%20website"
+    },
+    {
+      "company": "Sigmoid Analytics",
+      "min_cgpa": 7.19,
+      "avg_cgpa": 7.62,
+      "avg_ctc": 8.5,
+      "offers": 4,
+      "website": "https://www.sigmoid.com/careers/"
+    },
+    {
+      "company": "ZS Associates",
+      "min_cgpa": 7.2,
+      "avg_cgpa": 7.2,
+      "avg_ctc": 13.65,
+      "offers": 1,
+      "website": "https://www.zs.com/careers"
+    },
+    {
+      "company": "Pharma Ace",
+      "min_cgpa": 7.23,
+      "avg_cgpa": 7.23,
+      "avg_ctc": 8.6,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Pharma%20Ace%20official%20website"
+    },
+    {
+      "company": "Blackbuck",
+      "min_cgpa": 7.24,
+      "avg_cgpa": 7.24,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.blackbuck.com/careers"
+    },
+    {
+      "company": "ExxonMobil",
+      "min_cgpa": 7.26,
+      "avg_cgpa": 8.07,
+      "avg_ctc": 13.38,
+      "offers": 10,
+      "website": "https://corporate.exxonmobil.com/careers"
+    },
+    {
+      "company": "Infinity Learn",
+      "min_cgpa": 7.26,
+      "avg_cgpa": 7.26,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Infinity%20Learn%20official%20website"
+    },
+    {
+      "company": "Axxela",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.47,
+      "avg_ctc": 14.1,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Axxela%20official%20website"
+    },
+    {
+      "company": "Qwixpert",
+      "min_cgpa": 7.53,
+      "avg_cgpa": 7.53,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Qwixpert%20official%20website"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 7.54,
+      "avg_cgpa": 7.78,
+      "avg_ctc": 17.73,
+      "offers": 2,
+      "website": "https://careers.mastercard.com/"
+    },
+    {
+      "company": "Bizacuity",
+      "min_cgpa": 7.57,
+      "avg_cgpa": 7.57,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bizacuity%20official%20website"
+    },
+    {
+      "company": "Accenture",
+      "min_cgpa": 7.59,
+      "avg_cgpa": 7.59,
+      "avg_ctc": 11.89,
+      "offers": 1,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "UIDAI",
+      "min_cgpa": 7.69,
+      "avg_cgpa": 7.69,
+      "avg_ctc": 17.0,
+      "offers": 1,
+      "website": "https://uidai.gov.in/en/about-uidai/careers.html"
+    },
+    {
+      "company": "Netradyne",
+      "min_cgpa": 7.7,
+      "avg_cgpa": 7.97,
+      "avg_ctc": 16.0,
+      "offers": 2,
+      "website": "https://netradyne.com/careers/"
+    },
+    {
+      "company": "Coromandel",
+      "min_cgpa": 7.82,
+      "avg_cgpa": 8.2,
+      "avg_ctc": 10.0,
+      "offers": 4,
+      "website": "https://www.coromandel.biz/careers/"
+    },
+    {
+      "company": "DCM Shriram",
+      "min_cgpa": 7.84,
+      "avg_cgpa": 7.84,
+      "avg_ctc": 18.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=DCM%20Shriram%20official%20website"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 7.97,
+      "avg_cgpa": 7.97,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "ICICI",
+      "min_cgpa": 8.04,
+      "avg_cgpa": 8.04,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://www.icicicareers.com/"
+    },
+    {
+      "company": "ITC",
+      "min_cgpa": 8.23,
+      "avg_cgpa": 8.23,
+      "avg_ctc": 31.25,
+      "offers": 1,
+      "website": "https://www.itcportal.com/careers/"
+    },
+    {
+      "company": "Aveva",
+      "min_cgpa": 8.33,
+      "avg_cgpa": 8.33,
+      "avg_ctc": 15.8,
+      "offers": 1,
+      "website": "https://www.aveva.com/en/about/careers/"
+    },
+    {
+      "company": "Chevron",
+      "min_cgpa": 8.49,
+      "avg_cgpa": 8.49,
+      "avg_ctc": 17.7,
+      "offers": 1,
+      "website": "https://www.chevron.com/careers"
+    },
+    {
+      "company": "Suven Pharma",
+      "min_cgpa": 8.82,
+      "avg_cgpa": 8.82,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.suvenpharm.com/careers/"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 8.9,
+      "avg_cgpa": 8.9,
+      "avg_ctc": 34.1,
+      "offers": 1,
+      "website": "https://www.oracle.com/careers/"
+    }
+  ],
+  "CIVIL": [
+    {
+      "company": "Wayspire",
+      "min_cgpa": 5.15,
+      "avg_cgpa": 6.01,
+      "avg_ctc": 7.0,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Mahindra Finance",
+      "min_cgpa": 5.23,
+      "avg_cgpa": 6.37,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.mahindrafinance.com/careers"
+    },
+    {
+      "company": "Nano Classes",
+      "min_cgpa": 5.43,
+      "avg_cgpa": 5.43,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Nano%20Classes%20official%20website"
+    },
+    {
+      "company": "Allen",
+      "min_cgpa": 5.47,
+      "avg_cgpa": 5.47,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Allen%20official%20website"
+    },
+    {
+      "company": "Narayana",
+      "min_cgpa": 5.61,
+      "avg_cgpa": 5.61,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Narayana%20official%20website"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 6.14,
+      "avg_cgpa": 7.08,
+      "avg_ctc": 8.0,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "L & T",
+      "min_cgpa": 6.59,
+      "avg_cgpa": 7.5,
+      "avg_ctc": 6.25,
+      "offers": 10,
+      "website": "https://www.larsentoubro.com/corporate/careers/"
+    },
+    {
+      "company": "Maruti Suzuki",
+      "min_cgpa": 6.65,
+      "avg_cgpa": 7.63,
+      "avg_ctc": 12.85,
+      "offers": 2,
+      "website": "https://www.marutisuzuki.com/corporate/careers"
+    },
+    {
+      "company": "Quadrant Technologies",
+      "min_cgpa": 6.72,
+      "avg_cgpa": 6.72,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quadrant%20Technologies%20official%20website"
+    },
+    {
+      "company": "Impact Analytics",
+      "min_cgpa": 6.73,
+      "avg_cgpa": 7.43,
+      "avg_ctc": 14.67,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Impact%20Analytics%20official%20website"
+    },
+    {
+      "company": "Infinity Learn",
+      "min_cgpa": 6.73,
+      "avg_cgpa": 6.73,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Infinity%20Learn%20official%20website"
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "min_cgpa": 6.76,
+      "avg_cgpa": 7.5,
+      "avg_ctc": 10.0,
+      "offers": 3,
+      "website": "https://www.hyperpure.com/careers"
+    },
+    {
+      "company": "Resonance",
+      "min_cgpa": 6.97,
+      "avg_cgpa": 6.97,
+      "avg_ctc": 8.4,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Resonance%20official%20website"
+    },
+    {
+      "company": "Deloitte",
+      "min_cgpa": 7.01,
+      "avg_cgpa": 7.38,
+      "avg_ctc": 8.1,
+      "offers": 5,
+      "website": "https://www2.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "GDI Partners",
+      "min_cgpa": 7.03,
+      "avg_cgpa": 7.03,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=GDI%20Partners%20official%20website"
+    },
+    {
+      "company": "Megha Engineering & Infrastructure Ltd",
+      "min_cgpa": 7.23,
+      "avg_cgpa": 7.38,
+      "avg_ctc": 5.25,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Megha%20Engineering%20%26%20Infrastructure%20Ltd%20official%20website"
+    },
+    {
+      "company": "Godrej Properties",
+      "min_cgpa": 7.35,
+      "avg_cgpa": 7.91,
+      "avg_ctc": 16.0,
+      "offers": 7,
+      "website": "https://www.godrejproperties.com/careers"
+    },
+    {
+      "company": "Accordian",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.71,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Accordian%20official%20website"
+    },
+    {
+      "company": "ZL Tech",
+      "min_cgpa": 7.53,
+      "avg_cgpa": 7.53,
+      "avg_ctc": 11.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=ZL%20Tech%20official%20website"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 7.55,
+      "avg_cgpa": 7.55,
+      "avg_ctc": 34.1,
+      "offers": 1,
+      "website": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "MNGL",
+      "min_cgpa": 7.57,
+      "avg_cgpa": 8.02,
+      "avg_ctc": 7.17,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=MNGL%20official%20website"
+    },
+    {
+      "company": "Genpact",
+      "min_cgpa": 7.69,
+      "avg_cgpa": 7.69,
+      "avg_ctc": 11.0,
+      "offers": 1,
+      "website": "https://www.genpact.com/careers"
+    },
+    {
+      "company": "ASC Infra Tech",
+      "min_cgpa": 7.72,
+      "avg_cgpa": 7.72,
+      "avg_ctc": 7.35,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=ASC%20Infra%20Tech%20official%20website"
+    },
+    {
+      "company": "CloudAngles",
+      "min_cgpa": 7.73,
+      "avg_cgpa": 7.73,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=CloudAngles%20official%20website"
+    },
+    {
+      "company": "Paltech",
+      "min_cgpa": 7.79,
+      "avg_cgpa": 7.79,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Paltech%20official%20website"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 7.85,
+      "avg_cgpa": 7.85,
+      "avg_ctc": 17.73,
+      "offers": 1,
+      "website": "https://careers.mastercard.com/"
+    },
+    {
+      "company": "Excellencia",
+      "min_cgpa": 7.9,
+      "avg_cgpa": 7.9,
+      "avg_ctc": 7.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Excellencia%20official%20website"
+    },
+    {
+      "company": "Anakin",
+      "min_cgpa": 7.91,
+      "avg_cgpa": 7.91,
+      "avg_ctc": 17.2,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Anakin%20official%20website"
+    },
+    {
+      "company": "Tata Projects",
+      "min_cgpa": 8.07,
+      "avg_cgpa": 8.22,
+      "avg_ctc": 7.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Tata%20Projects%20official%20website"
+    },
+    {
+      "company": "RIL",
+      "min_cgpa": 8.19,
+      "avg_cgpa": 8.4,
+      "avg_ctc": 8.0,
+      "offers": 2,
+      "website": "https://www.ril.com/careers"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 8.38,
+      "avg_cgpa": 8.38,
+      "avg_ctc": 13.74,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "Aarvee Associates",
+      "min_cgpa": 8.55,
+      "avg_cgpa": 8.55,
+      "avg_ctc": 5.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Aarvee%20Associates%20official%20website"
+    },
+    {
+      "company": "Blue Yonder",
+      "min_cgpa": 8.94,
+      "avg_cgpa": 8.94,
+      "avg_ctc": 12.6,
+      "offers": 1,
+      "website": "https://blueyonder.com/careers"
+    }
+  ],
+  "CSE": [
+    {
+      "company": "Wayspire",
+      "min_cgpa": 4.69,
+      "avg_cgpa": 5.16,
+      "avg_ctc": 7.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Bansal",
+      "min_cgpa": 5.22,
+      "avg_cgpa": 5.22,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bansal%20official%20website"
+    },
+    {
+      "company": "Narayana",
+      "min_cgpa": 5.26,
+      "avg_cgpa": 5.26,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Narayana%20official%20website"
+    },
+    {
+      "company": "Axxela",
+      "min_cgpa": 5.28,
+      "avg_cgpa": 5.28,
+      "avg_ctc": 14.1,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Axxela%20official%20website"
+    },
+    {
+      "company": "Accenture",
+      "min_cgpa": 5.3,
+      "avg_cgpa": 6.18,
+      "avg_ctc": 12.44,
+      "offers": 2,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Tudip Technologies",
+      "min_cgpa": 5.47,
+      "avg_cgpa": 5.81,
+      "avg_ctc": 7.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Tudip%20Technologies%20official%20website"
+    },
+    {
+      "company": "HCL Tech",
+      "min_cgpa": 5.85,
+      "avg_cgpa": 6.16,
+      "avg_ctc": 10.0,
+      "offers": 3,
+      "website": "https://www.hcltech.com/careers"
+    },
+    {
+      "company": "UIDAI",
+      "min_cgpa": 5.98,
+      "avg_cgpa": 5.98,
+      "avg_ctc": 17.0,
+      "offers": 1,
+      "website": "https://uidai.gov.in/en/about-uidai/careers.html"
+    },
+    {
+      "company": "Genpact",
+      "min_cgpa": 6.18,
+      "avg_cgpa": 6.18,
+      "avg_ctc": 11.0,
+      "offers": 1,
+      "website": "https://www.genpact.com/careers"
+    },
+    {
+      "company": "IDFC First Bank",
+      "min_cgpa": 6.18,
+      "avg_cgpa": 7.56,
+      "avg_ctc": 18.1,
+      "offers": 7,
+      "website": "https://www.idfcfirstbank.com/careers"
+    },
+    {
+      "company": "ICICI Securities",
+      "min_cgpa": 6.2,
+      "avg_cgpa": 6.2,
+      "avg_ctc": 8.29,
+      "offers": 1,
+      "website": "https://www.icicisecurities.com/careers"
+    },
+    {
+      "company": "IDBI Bank",
+      "min_cgpa": 6.21,
+      "avg_cgpa": 6.28,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.idbibank.in/careers.aspx"
+    },
+    {
+      "company": "Amdocs",
+      "min_cgpa": 6.23,
+      "avg_cgpa": 6.78,
+      "avg_ctc": 12.0,
+      "offers": 7,
+      "website": "https://www.google.com/search?q=Amdocs%20official%20website"
+    },
+    {
+      "company": "ICICI",
+      "min_cgpa": 6.33,
+      "avg_cgpa": 6.54,
+      "avg_ctc": 16.0,
+      "offers": 2,
+      "website": "https://www.icicicareers.com/"
+    },
+    {
+      "company": "EY GDS",
+      "min_cgpa": 6.39,
+      "avg_cgpa": 6.95,
+      "avg_ctc": 12.6,
+      "offers": 3,
+      "website": "https://www.ey.com/en_in/careers"
+    },
+    {
+      "company": "MAQ Software",
+      "min_cgpa": 6.42,
+      "avg_cgpa": 6.42,
+      "avg_ctc": 9.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=MAQ%20Software%20official%20website"
+    },
+    {
+      "company": "UTS",
+      "min_cgpa": 6.55,
+      "avg_cgpa": 6.9,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=UTS%20official%20website"
+    },
+    {
+      "company": "Airtel Payments Bank",
+      "min_cgpa": 6.6,
+      "avg_cgpa": 6.88,
+      "avg_ctc": 14.75,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Airtel%20Payments%20Bank%20official%20website"
+    },
+    {
+      "company": "NPCI",
+      "min_cgpa": 6.68,
+      "avg_cgpa": 7.44,
+      "avg_ctc": 16.15,
+      "offers": 4,
+      "website": "https://www.npci.org.in/careers"
+    },
+    {
+      "company": "Zinnia",
+      "min_cgpa": 6.72,
+      "avg_cgpa": 6.72,
+      "avg_ctc": 17.6,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Zinnia%20official%20website"
+    },
+    {
+      "company": "BEL",
+      "min_cgpa": 6.75,
+      "avg_cgpa": 7.35,
+      "avg_ctc": 12.35,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=BEL%20official%20website"
+    },
+    {
+      "company": "Gramener",
+      "min_cgpa": 6.85,
+      "avg_cgpa": 6.85,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Gramener%20official%20website"
+    },
+    {
+      "company": "Blaize",
+      "min_cgpa": 6.93,
+      "avg_cgpa": 6.93,
+      "avg_ctc": 17.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Blaize%20official%20website"
+    },
+    {
+      "company": "Gracenote",
+      "min_cgpa": 6.98,
+      "avg_cgpa": 6.98,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Gracenote%20official%20website"
+    },
+    {
+      "company": "Sapiens",
+      "min_cgpa": 7.01,
+      "avg_cgpa": 7.01,
+      "avg_ctc": 14.25,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Sapiens%20official%20website"
+    },
+    {
+      "company": "ServiceNow",
+      "min_cgpa": 7.06,
+      "avg_cgpa": 7.59,
+      "avg_ctc": 42.9,
+      "offers": 2,
+      "website": "https://www.servicenow.com/careers.html"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 7.14,
+      "avg_cgpa": 7.14,
+      "avg_ctc": 13.74,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "KPIT",
+      "min_cgpa": 7.19,
+      "avg_cgpa": 7.19,
+      "avg_ctc": 15.0,
+      "offers": 1,
+      "website": "https://www.kpit.com/careers/"
+    },
+    {
+      "company": "Micron",
+      "min_cgpa": 7.2,
+      "avg_cgpa": 7.32,
+      "avg_ctc": 20.0,
+      "offers": 3,
+      "website": "https://micron.com/careers"
+    },
+    {
+      "company": "BNY",
+      "min_cgpa": 7.21,
+      "avg_cgpa": 7.34,
+      "avg_ctc": 31.5,
+      "offers": 2,
+      "website": "https://www.bny.com/corporate/global/en/careers.html"
+    },
+    {
+      "company": "Netradyne",
+      "min_cgpa": 7.26,
+      "avg_cgpa": 7.26,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://netradyne.com/careers/"
+    },
+    {
+      "company": "Increff",
+      "min_cgpa": 7.29,
+      "avg_cgpa": 7.29,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Increff%20official%20website"
+    },
+    {
+      "company": "PhonePe",
+      "min_cgpa": 7.38,
+      "avg_cgpa": 7.46,
+      "avg_ctc": 34.0,
+      "offers": 2,
+      "website": "https://www.phonepe.com/careers/"
+    },
+    {
+      "company": "Sixt",
+      "min_cgpa": 7.4,
+      "avg_cgpa": 7.7,
+      "avg_ctc": 17.43,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Sixt%20official%20website"
+    },
+    {
+      "company": "SRIB",
+      "min_cgpa": 7.42,
+      "avg_cgpa": 7.49,
+      "avg_ctc": 20.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=SRIB%20official%20website"
+    },
+    {
+      "company": "Cisco",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.47,
+      "avg_ctc": 24.73,
+      "offers": 1,
+      "website": "https://jobs.cisco.com/"
+    },
+    {
+      "company": "Synopsys",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.54,
+      "avg_ctc": 23.56,
+      "offers": 2,
+      "website": "https://www.synopsys.com/careers.html"
+    },
+    {
+      "company": "Visa",
+      "min_cgpa": 7.52,
+      "avg_cgpa": 7.87,
+      "avg_ctc": 36.6,
+      "offers": 3,
+      "website": "https://www.visa.co.in/careers.html"
+    },
+    {
+      "company": "SAP Labs",
+      "min_cgpa": 7.57,
+      "avg_cgpa": 7.57,
+      "avg_ctc": 29.0,
+      "offers": 1,
+      "website": "https://www.sap.com/about/careers.html"
+    },
+    {
+      "company": "Adobe",
+      "min_cgpa": 7.58,
+      "avg_cgpa": 7.58,
+      "avg_ctc": 47.64,
+      "offers": 1,
+      "website": "https://www.adobe.com/careers.html"
+    },
+    {
+      "company": "Saviynt",
+      "min_cgpa": 7.61,
+      "avg_cgpa": 7.61,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Saviynt%20official%20website"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 7.62,
+      "avg_cgpa": 8.46,
+      "avg_ctc": 20.43,
+      "offers": 6,
+      "website": "https://careers.mastercard.com/"
+    },
+    {
+      "company": "Blue Yonder",
+      "min_cgpa": 7.64,
+      "avg_cgpa": 7.64,
+      "avg_ctc": 12.6,
+      "offers": 1,
+      "website": "https://blueyonder.com/careers"
+    },
+    {
+      "company": "Arcesium",
+      "min_cgpa": 7.71,
+      "avg_cgpa": 7.71,
+      "avg_ctc": 38.5,
+      "offers": 1,
+      "website": "https://www.arcesium.com/careers/"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 7.75,
+      "avg_cgpa": 8.57,
+      "avg_ctc": 34.1,
+      "offers": 10,
+      "website": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "American Express",
+      "min_cgpa": 7.78,
+      "avg_cgpa": 7.86,
+      "avg_ctc": 19.15,
+      "offers": 2,
+      "website": "https://www.americanexpress.com/en-us/careers/"
+    },
+    {
+      "company": "Daimler Truck",
+      "min_cgpa": 7.79,
+      "avg_cgpa": 7.79,
+      "avg_ctc": 14.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Daimler%20Truck%20official%20website"
+    },
+    {
+      "company": "Wells Fargo",
+      "min_cgpa": 7.96,
+      "avg_cgpa": 8.46,
+      "avg_ctc": 24.0,
+      "offers": 4,
+      "website": "https://www.wellsfargo.com/careers/"
+    },
+    {
+      "company": "Qualcomm",
+      "min_cgpa": 7.99,
+      "avg_cgpa": 8.62,
+      "avg_ctc": 31.0,
+      "offers": 5,
+      "website": "https://www.qualcomm.com/company/careers"
+    },
+    {
+      "company": "Deutsche Bank",
+      "min_cgpa": 8.0,
+      "avg_cgpa": 8.08,
+      "avg_ctc": 21.2,
+      "offers": 2,
+      "website": "https://careers.db.com/"
+    },
+    {
+      "company": "Goldman Sachs",
+      "min_cgpa": 8.0,
+      "avg_cgpa": 8.21,
+      "avg_ctc": 36.5,
+      "offers": 4,
+      "website": "https://www.goldmansachs.com/careers/"
+    },
+    {
+      "company": "Microsoft",
+      "min_cgpa": 8.08,
+      "avg_cgpa": 8.45,
+      "avg_ctc": 51.3,
+      "offers": 2,
+      "website": "https://careers.microsoft.com/"
+    },
+    {
+      "company": "OLA Electric",
+      "min_cgpa": 8.25,
+      "avg_cgpa": 8.25,
+      "avg_ctc": 30.0,
+      "offers": 1,
+      "website": "https://olaelectric.com/careers"
+    },
+    {
+      "company": "CDOT",
+      "min_cgpa": 8.54,
+      "avg_cgpa": 8.54,
+      "avg_ctc": 21.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=CDOT%20official%20website"
+    },
+    {
+      "company": "Salesforce",
+      "min_cgpa": 8.79,
+      "avg_cgpa": 8.87,
+      "avg_ctc": 42.83,
+      "offers": 3,
+      "website": "https://www.salesforce.com/company/careers/"
+    },
+    {
+      "company": "Google",
+      "min_cgpa": 8.91,
+      "avg_cgpa": 9.15,
+      "avg_ctc": 53.28,
+      "offers": 4,
+      "website": "https://www.google.com/about/careers/"
+    }
+  ],
+  "ECE": [
+    {
+      "company": "Wayspire",
+      "min_cgpa": 4.08,
+      "avg_cgpa": 5.39,
+      "avg_ctc": 7.0,
+      "offers": 6,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Anand Group",
+      "min_cgpa": 5.48,
+      "avg_cgpa": 5.48,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Anand%20Group%20official%20website"
+    },
+    {
+      "company": "Tudip Technologies",
+      "min_cgpa": 5.51,
+      "avg_cgpa": 5.78,
+      "avg_ctc": 7.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Tudip%20Technologies%20official%20website"
+    },
+    {
+      "company": "Modulus Associates",
+      "min_cgpa": 5.63,
+      "avg_cgpa": 5.63,
+      "avg_ctc": 9.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Modulus%20Associates%20official%20website"
+    },
+    {
+      "company": "Simplotel",
+      "min_cgpa": 5.67,
+      "avg_cgpa": 5.67,
+      "avg_ctc": 7.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Simplotel%20official%20website"
+    },
+    {
+      "company": "BEL",
+      "min_cgpa": 6.03,
+      "avg_cgpa": 7.2,
+      "avg_ctc": 12.46,
+      "offers": 8,
+      "website": "https://www.google.com/search?q=BEL%20official%20website"
+    },
+    {
+      "company": "Sapiens",
+      "min_cgpa": 6.41,
+      "avg_cgpa": 6.41,
+      "avg_ctc": 14.25,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Sapiens%20official%20website"
+    },
+    {
+      "company": "Namekart",
+      "min_cgpa": 6.48,
+      "avg_cgpa": 6.48,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Namekart%20official%20website"
+    },
+    {
+      "company": "Amdocs",
+      "min_cgpa": 6.71,
+      "avg_cgpa": 6.71,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Amdocs%20official%20website"
+    },
+    {
+      "company": "Zinnia",
+      "min_cgpa": 6.71,
+      "avg_cgpa": 7.23,
+      "avg_ctc": 17.6,
+      "offers": 6,
+      "website": "https://www.google.com/search?q=Zinnia%20official%20website"
+    },
+    {
+      "company": "HCL Tech",
+      "min_cgpa": 6.73,
+      "avg_cgpa": 6.73,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.hcltech.com/careers"
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "min_cgpa": 6.75,
+      "avg_cgpa": 6.75,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.hyperpure.com/careers"
+    },
+    {
+      "company": "NSE",
+      "min_cgpa": 6.77,
+      "avg_cgpa": 6.77,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.nseindia.com/national-stock-exchange/careers"
+    },
+    {
+      "company": "Gramener",
+      "min_cgpa": 6.81,
+      "avg_cgpa": 6.83,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Gramener%20official%20website"
+    },
+    {
+      "company": "ICICI Prudentials",
+      "min_cgpa": 6.95,
+      "avg_cgpa": 6.95,
+      "avg_ctc": 13.7,
+      "offers": 1,
+      "website": "https://www.iciciprulife.com/careers.html"
+    },
+    {
+      "company": "Bizacuity",
+      "min_cgpa": 6.96,
+      "avg_cgpa": 6.96,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bizacuity%20official%20website"
+    },
+    {
+      "company": "NPCI",
+      "min_cgpa": 7.02,
+      "avg_cgpa": 7.14,
+      "avg_ctc": 16.0,
+      "offers": 3,
+      "website": "https://www.npci.org.in/careers"
+    },
+    {
+      "company": "IDBI Bank",
+      "min_cgpa": 7.04,
+      "avg_cgpa": 7.09,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.idbibank.in/careers.aspx"
+    },
+    {
+      "company": "Infinity Learn",
+      "min_cgpa": 7.12,
+      "avg_cgpa": 7.44,
+      "avg_ctc": 8.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Infinity%20Learn%20official%20website"
+    },
+    {
+      "company": "SAP Labs",
+      "min_cgpa": 7.12,
+      "avg_cgpa": 7.76,
+      "avg_ctc": 29.0,
+      "offers": 5,
+      "website": "https://www.sap.com/about/careers.html"
+    },
+    {
+      "company": "Akamai",
+      "min_cgpa": 7.13,
+      "avg_cgpa": 7.13,
+      "avg_ctc": 19.89,
+      "offers": 1,
+      "website": "https://www.akamai.com/careers"
+    },
+    {
+      "company": "Qualcomm",
+      "min_cgpa": 7.15,
+      "avg_cgpa": 8.25,
+      "avg_ctc": 31.0,
+      "offers": 19,
+      "website": "https://www.qualcomm.com/company/careers"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 7.21,
+      "avg_cgpa": 7.96,
+      "avg_ctc": 34.1,
+      "offers": 5,
+      "website": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "Carrier",
+      "min_cgpa": 7.22,
+      "avg_cgpa": 7.22,
+      "avg_ctc": 15.0,
+      "offers": 1,
+      "website": "https://www.corporate.carrier.com/careers/"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 7.43,
+      "avg_cgpa": 7.43,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 7.45,
+      "avg_cgpa": 7.87,
+      "avg_ctc": 20.43,
+      "offers": 2,
+      "website": "https://careers.mastercard.com/"
+    },
+    {
+      "company": "Saviynt",
+      "min_cgpa": 7.45,
+      "avg_cgpa": 7.45,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Saviynt%20official%20website"
+    },
+    {
+      "company": "Synopsys",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.93,
+      "avg_ctc": 23.56,
+      "offers": 4,
+      "website": "https://www.synopsys.com/careers.html"
+    },
+    {
+      "company": "ServiceNow",
+      "min_cgpa": 7.55,
+      "avg_cgpa": 7.55,
+      "avg_ctc": 42.9,
+      "offers": 1,
+      "website": "https://www.servicenow.com/careers.html"
+    },
+    {
+      "company": "Amazon",
+      "min_cgpa": 7.63,
+      "avg_cgpa": 7.63,
+      "avg_ctc": 47.88,
+      "offers": 1,
+      "website": "https://www.amazon.jobs/"
+    },
+    {
+      "company": "Wells Fargo",
+      "min_cgpa": 7.64,
+      "avg_cgpa": 7.64,
+      "avg_ctc": 24.0,
+      "offers": 1,
+      "website": "https://www.wellsfargo.com/careers/"
+    },
+    {
+      "company": "Ather",
+      "min_cgpa": 7.67,
+      "avg_cgpa": 8.18,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.atherenergy.com/careers"
+    },
+    {
+      "company": "CloudAngles",
+      "min_cgpa": 7.69,
+      "avg_cgpa": 7.69,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=CloudAngles%20official%20website"
+    },
+    {
+      "company": "American Express",
+      "min_cgpa": 7.73,
+      "avg_cgpa": 7.73,
+      "avg_ctc": 19.15,
+      "offers": 1,
+      "website": "https://www.americanexpress.com/en-us/careers/"
+    },
+    {
+      "company": "Blaize",
+      "min_cgpa": 7.77,
+      "avg_cgpa": 7.77,
+      "avg_ctc": 17.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Blaize%20official%20website"
+    },
+    {
+      "company": "Rapido",
+      "min_cgpa": 7.77,
+      "avg_cgpa": 7.77,
+      "avg_ctc": 18.0,
+      "offers": 1,
+      "website": "https://www.rapido.bike/careers"
+    },
+    {
+      "company": "ACT Fibernet",
+      "min_cgpa": 7.79,
+      "avg_cgpa": 7.8,
+      "avg_ctc": 15.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=ACT%20Fibernet%20official%20website"
+    },
+    {
+      "company": "IBM",
+      "min_cgpa": 7.88,
+      "avg_cgpa": 7.88,
+      "avg_ctc": 18.75,
+      "offers": 1,
+      "website": "https://www.ibm.com/careers"
+    },
+    {
+      "company": "WCB Robotics",
+      "min_cgpa": 7.91,
+      "avg_cgpa": 7.91,
+      "avg_ctc": 12.8,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=WCB%20Robotics%20official%20website"
+    },
+    {
+      "company": "DE Shaw",
+      "min_cgpa": 7.93,
+      "avg_cgpa": 7.93,
+      "avg_ctc": 64.3,
+      "offers": 1,
+      "website": "https://www.deshaw.com/careers"
+    },
+    {
+      "company": "Deutsche Bank",
+      "min_cgpa": 8.01,
+      "avg_cgpa": 8.13,
+      "avg_ctc": 21.2,
+      "offers": 3,
+      "website": "https://careers.db.com/"
+    },
+    {
+      "company": "CDOT",
+      "min_cgpa": 8.18,
+      "avg_cgpa": 8.18,
+      "avg_ctc": 21.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=CDOT%20official%20website"
+    },
+    {
+      "company": "Collins",
+      "min_cgpa": 8.27,
+      "avg_cgpa": 8.27,
+      "avg_ctc": 8.75,
+      "offers": 1,
+      "website": "https://jobs.collinsaerospace.com/"
+    },
+    {
+      "company": "Texas Instruments",
+      "min_cgpa": 8.41,
+      "avg_cgpa": 8.64,
+      "avg_ctc": 38.52,
+      "offers": 3,
+      "website": "https://careers.ti.com/"
+    },
+    {
+      "company": "Goldman Sachs",
+      "min_cgpa": 8.55,
+      "avg_cgpa": 8.55,
+      "avg_ctc": 36.5,
+      "offers": 1,
+      "website": "https://www.goldmansachs.com/careers/"
+    },
+    {
+      "company": "PhonePe",
+      "min_cgpa": 8.56,
+      "avg_cgpa": 8.56,
+      "avg_ctc": 34.0,
+      "offers": 1,
+      "website": "https://www.phonepe.com/careers/"
+    },
+    {
+      "company": "Nvidia",
+      "min_cgpa": 8.63,
+      "avg_cgpa": 8.63,
+      "avg_ctc": 28.9,
+      "offers": 1,
+      "website": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+    },
+    {
+      "company": "Salesforce",
+      "min_cgpa": 8.96,
+      "avg_cgpa": 8.96,
+      "avg_ctc": 42.83,
+      "offers": 1,
+      "website": "https://www.salesforce.com/company/careers/"
+    },
+    {
+      "company": "Micron",
+      "min_cgpa": 9.51,
+      "avg_cgpa": 9.51,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://micron.com/careers"
+    }
+  ],
+  "EEE": [
+    {
+      "company": "RV Learning",
+      "min_cgpa": 4.47,
+      "avg_cgpa": 5.38,
+      "avg_ctc": 6.6,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=RV%20Learning%20official%20website"
+    },
+    {
+      "company": "Wayspire",
+      "min_cgpa": 4.99,
+      "avg_cgpa": 5.39,
+      "avg_ctc": 7.0,
+      "offers": 6,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Kratikal Tech",
+      "min_cgpa": 5.12,
+      "avg_cgpa": 5.12,
+      "avg_ctc": 9.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Kratikal%20Tech%20official%20website"
+    },
+    {
+      "company": "Datawrkz Electronics",
+      "min_cgpa": 5.35,
+      "avg_cgpa": 6.33,
+      "avg_ctc": 6.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Datawrkz%20Electronics%20official%20website"
+    },
+    {
+      "company": "Raam Group",
+      "min_cgpa": 5.73,
+      "avg_cgpa": 6.11,
+      "avg_ctc": 6.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Raam%20Group%20official%20website"
+    },
+    {
+      "company": "HCL Tech",
+      "min_cgpa": 6.1,
+      "avg_cgpa": 6.92,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.hcltech.com/careers"
+    },
+    {
+      "company": "Genpact",
+      "min_cgpa": 6.13,
+      "avg_cgpa": 6.48,
+      "avg_ctc": 11.0,
+      "offers": 3,
+      "website": "https://www.genpact.com/careers"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 6.52,
+      "avg_cgpa": 6.52,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "Accenture KAI",
+      "min_cgpa": 6.54,
+      "avg_cgpa": 6.54,
+      "avg_ctc": 10.82,
+      "offers": 1,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "NPCI",
+      "min_cgpa": 6.54,
+      "avg_cgpa": 7.49,
+      "avg_ctc": 16.0,
+      "offers": 2,
+      "website": "https://www.npci.org.in/careers"
+    },
+    {
+      "company": "Deloitte",
+      "min_cgpa": 6.57,
+      "avg_cgpa": 6.75,
+      "avg_ctc": 8.1,
+      "offers": 2,
+      "website": "https://www2.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "min_cgpa": 6.57,
+      "avg_cgpa": 6.57,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.hyperpure.com/careers"
+    },
+    {
+      "company": "Zinnia",
+      "min_cgpa": 6.62,
+      "avg_cgpa": 7.07,
+      "avg_ctc": 17.6,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Zinnia%20official%20website"
+    },
+    {
+      "company": "Sapiens",
+      "min_cgpa": 6.63,
+      "avg_cgpa": 7.55,
+      "avg_ctc": 14.25,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Sapiens%20official%20website"
+    },
+    {
+      "company": "Goldman Sachs",
+      "min_cgpa": 6.65,
+      "avg_cgpa": 6.65,
+      "avg_ctc": 36.5,
+      "offers": 1,
+      "website": "https://www.goldmansachs.com/careers/"
+    },
+    {
+      "company": "Nine Education",
+      "min_cgpa": 6.71,
+      "avg_cgpa": 6.71,
+      "avg_ctc": 11.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Nine%20Education%20official%20website"
+    },
+    {
+      "company": "Quadrant Technologies",
+      "min_cgpa": 6.73,
+      "avg_cgpa": 6.73,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quadrant%20Technologies%20official%20website"
+    },
+    {
+      "company": "Collins",
+      "min_cgpa": 7.03,
+      "avg_cgpa": 7.69,
+      "avg_ctc": 8.75,
+      "offers": 3,
+      "website": "https://jobs.collinsaerospace.com/"
+    },
+    {
+      "company": "Dataskate",
+      "min_cgpa": 7.03,
+      "avg_cgpa": 7.63,
+      "avg_ctc": 8.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Dataskate%20official%20website"
+    },
+    {
+      "company": "NSE",
+      "min_cgpa": 7.03,
+      "avg_cgpa": 7.03,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.nseindia.com/national-stock-exchange/careers"
+    },
+    {
+      "company": "Amazon",
+      "min_cgpa": 7.06,
+      "avg_cgpa": 7.74,
+      "avg_ctc": 47.88,
+      "offers": 3,
+      "website": "https://www.amazon.jobs/"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 7.07,
+      "avg_cgpa": 7.51,
+      "avg_ctc": 13.74,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "ServiceNow",
+      "min_cgpa": 7.08,
+      "avg_cgpa": 7.86,
+      "avg_ctc": 42.9,
+      "offers": 3,
+      "website": "https://www.servicenow.com/careers.html"
+    },
+    {
+      "company": "Sigmoid Analytics",
+      "min_cgpa": 7.14,
+      "avg_cgpa": 7.15,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.sigmoid.com/careers/"
+    },
+    {
+      "company": "Blaize",
+      "min_cgpa": 7.15,
+      "avg_cgpa": 7.22,
+      "avg_ctc": 17.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Blaize%20official%20website"
+    },
+    {
+      "company": "Netradyne",
+      "min_cgpa": 7.17,
+      "avg_cgpa": 7.63,
+      "avg_ctc": 16.0,
+      "offers": 4,
+      "website": "https://netradyne.com/careers/"
+    },
+    {
+      "company": "BPCL",
+      "min_cgpa": 7.2,
+      "avg_cgpa": 7.56,
+      "avg_ctc": 20.1,
+      "offers": 2,
+      "website": "https://www.bharatpetroleum.in/Careers.aspx"
+    },
+    {
+      "company": "Gracenote",
+      "min_cgpa": 7.22,
+      "avg_cgpa": 7.3,
+      "avg_ctc": 20.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Gracenote%20official%20website"
+    },
+    {
+      "company": "Publicis Sapient",
+      "min_cgpa": 7.24,
+      "avg_cgpa": 7.24,
+      "avg_ctc": 18.25,
+      "offers": 1,
+      "website": "https://www.publicissapient.com/careers"
+    },
+    {
+      "company": "Meesho",
+      "min_cgpa": 7.27,
+      "avg_cgpa": 7.46,
+      "avg_ctc": 27.5,
+      "offers": 2,
+      "website": "https://www.meesho.io/careers"
+    },
+    {
+      "company": "Synopsys",
+      "min_cgpa": 7.32,
+      "avg_cgpa": 8.19,
+      "avg_ctc": 23.56,
+      "offers": 2,
+      "website": "https://www.synopsys.com/careers.html"
+    },
+    {
+      "company": "Accordian",
+      "min_cgpa": 7.39,
+      "avg_cgpa": 7.39,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Accordian%20official%20website"
+    },
+    {
+      "company": "CloudAngles",
+      "min_cgpa": 7.41,
+      "avg_cgpa": 7.56,
+      "avg_ctc": 12.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=CloudAngles%20official%20website"
+    },
+    {
+      "company": "Resonance",
+      "min_cgpa": 7.45,
+      "avg_cgpa": 7.45,
+      "avg_ctc": 8.4,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Resonance%20official%20website"
+    },
+    {
+      "company": "Ather",
+      "min_cgpa": 7.52,
+      "avg_cgpa": 7.52,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.atherenergy.com/careers"
+    },
+    {
+      "company": "Deutsche Bank",
+      "min_cgpa": 7.54,
+      "avg_cgpa": 8.17,
+      "avg_ctc": 21.2,
+      "offers": 3,
+      "website": "https://careers.db.com/"
+    },
+    {
+      "company": "Increff",
+      "min_cgpa": 7.55,
+      "avg_cgpa": 7.55,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Increff%20official%20website"
+    },
+    {
+      "company": "BEL",
+      "min_cgpa": 7.56,
+      "avg_cgpa": 7.56,
+      "avg_ctc": 12.46,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=BEL%20official%20website"
+    },
+    {
+      "company": "GAIL",
+      "min_cgpa": 7.56,
+      "avg_cgpa": 7.77,
+      "avg_ctc": 18.0,
+      "offers": 3,
+      "website": "https://gailonline.com/Careers.html"
+    },
+    {
+      "company": "SAP Labs",
+      "min_cgpa": 7.59,
+      "avg_cgpa": 7.69,
+      "avg_ctc": 29.0,
+      "offers": 4,
+      "website": "https://www.sap.com/about/careers.html"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 7.61,
+      "avg_cgpa": 8.14,
+      "avg_ctc": 20.43,
+      "offers": 4,
+      "website": "https://careers.mastercard.com/"
+    },
+    {
+      "company": "Rapido",
+      "min_cgpa": 7.74,
+      "avg_cgpa": 7.9,
+      "avg_ctc": 18.0,
+      "offers": 2,
+      "website": "https://www.rapido.bike/careers"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 7.79,
+      "avg_cgpa": 8.54,
+      "avg_ctc": 34.1,
+      "offers": 2,
+      "website": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "Orient Electric",
+      "min_cgpa": 7.99,
+      "avg_cgpa": 7.99,
+      "avg_ctc": 7.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Orient%20Electric%20official%20website"
+    },
+    {
+      "company": "Aveva",
+      "min_cgpa": 8.01,
+      "avg_cgpa": 8.26,
+      "avg_ctc": 15.8,
+      "offers": 3,
+      "website": "https://www.aveva.com/en/about/careers/"
+    },
+    {
+      "company": "Accenture",
+      "min_cgpa": 8.12,
+      "avg_cgpa": 8.12,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Qualcomm",
+      "min_cgpa": 8.18,
+      "avg_cgpa": 8.56,
+      "avg_ctc": 31.0,
+      "offers": 4,
+      "website": "https://www.qualcomm.com/company/careers"
+    },
+    {
+      "company": "American Express",
+      "min_cgpa": 8.3,
+      "avg_cgpa": 8.3,
+      "avg_ctc": 19.15,
+      "offers": 1,
+      "website": "https://www.americanexpress.com/en-us/careers/"
+    },
+    {
+      "company": "ExxonMobil",
+      "min_cgpa": 8.32,
+      "avg_cgpa": 8.32,
+      "avg_ctc": 13.38,
+      "offers": 1,
+      "website": "https://corporate.exxonmobil.com/careers"
+    },
+    {
+      "company": "Mathworks",
+      "min_cgpa": 8.48,
+      "avg_cgpa": 8.48,
+      "avg_ctc": 25.92,
+      "offers": 1,
+      "website": "https://www.mathworks.com/company/jobs.html"
+    },
+    {
+      "company": "Wells Fargo",
+      "min_cgpa": 8.63,
+      "avg_cgpa": 9.02,
+      "avg_ctc": 24.0,
+      "offers": 4,
+      "website": "https://www.wellsfargo.com/careers/"
+    },
+    {
+      "company": "Micron",
+      "min_cgpa": 8.65,
+      "avg_cgpa": 8.65,
+      "avg_ctc": 18.98,
+      "offers": 1,
+      "website": "https://micron.com/careers"
+    },
+    {
+      "company": "SRID",
+      "min_cgpa": 8.65,
+      "avg_cgpa": 8.65,
+      "avg_ctc": 21.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=SRID%20official%20website"
+    },
+    {
+      "company": "IBM",
+      "min_cgpa": 8.87,
+      "avg_cgpa": 8.87,
+      "avg_ctc": 18.5,
+      "offers": 1,
+      "website": "https://www.ibm.com/careers"
+    },
+    {
+      "company": "Google",
+      "min_cgpa": 9.26,
+      "avg_cgpa": 9.26,
+      "avg_ctc": 53.28,
+      "offers": 1,
+      "website": "https://www.google.com/about/careers/"
+    }
+  ],
+  "MECH": [
+    {
+      "company": "Bansal",
+      "min_cgpa": 5.06,
+      "avg_cgpa": 5.06,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bansal%20official%20website"
+    },
+    {
+      "company": "Wayspire",
+      "min_cgpa": 5.13,
+      "avg_cgpa": 5.58,
+      "avg_ctc": 7.0,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Sri Chaitanya",
+      "min_cgpa": 6.17,
+      "avg_cgpa": 6.17,
+      "avg_ctc": 5.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Sri%20Chaitanya%20official%20website"
+    },
+    {
+      "company": "RIL",
+      "min_cgpa": 6.24,
+      "avg_cgpa": 6.24,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.ril.com/careers"
+    },
+    {
+      "company": "Datawrkz Electronics",
+      "min_cgpa": 6.39,
+      "avg_cgpa": 6.39,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Datawrkz%20Electronics%20official%20website"
+    },
+    {
+      "company": "Maruti Suzuki",
+      "min_cgpa": 6.55,
+      "avg_cgpa": 7.32,
+      "avg_ctc": 12.85,
+      "offers": 6,
+      "website": "https://www.marutisuzuki.com/corporate/careers"
+    },
+    {
+      "company": "Rashmi Metaliks",
+      "min_cgpa": 6.58,
+      "avg_cgpa": 7.18,
+      "avg_ctc": 12.6,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Rashmi%20Metaliks%20official%20website"
+    },
+    {
+      "company": "BPCL",
+      "min_cgpa": 6.67,
+      "avg_cgpa": 7.88,
+      "avg_ctc": 20.1,
+      "offers": 6,
+      "website": "https://www.bharatpetroleum.in/Careers.aspx"
+    },
+    {
+      "company": "BEL",
+      "min_cgpa": 6.68,
+      "avg_cgpa": 7.83,
+      "avg_ctc": 12.46,
+      "offers": 7,
+      "website": "https://www.google.com/search?q=BEL%20official%20website"
+    },
+    {
+      "company": "SSWL",
+      "min_cgpa": 6.71,
+      "avg_cgpa": 6.71,
+      "avg_ctc": 5.04,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=SSWL%20official%20website"
+    },
+    {
+      "company": "HCL Tech",
+      "min_cgpa": 6.81,
+      "avg_cgpa": 7.02,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.hcltech.com/careers"
+    },
+    {
+      "company": "Anand Group",
+      "min_cgpa": 6.83,
+      "avg_cgpa": 6.83,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Anand%20Group%20official%20website"
+    },
+    {
+      "company": "MNGL",
+      "min_cgpa": 6.83,
+      "avg_cgpa": 7.36,
+      "avg_ctc": 7.17,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=MNGL%20official%20website"
+    },
+    {
+      "company": "Bizacuity",
+      "min_cgpa": 7.01,
+      "avg_cgpa": 7.01,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bizacuity%20official%20website"
+    },
+    {
+      "company": "Telangana Gas",
+      "min_cgpa": 7.09,
+      "avg_cgpa": 7.09,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Telangana%20Gas%20official%20website"
+    },
+    {
+      "company": "Sigmoid Analytics",
+      "min_cgpa": 7.13,
+      "avg_cgpa": 7.4,
+      "avg_ctc": 8.0,
+      "offers": 2,
+      "website": "https://www.sigmoid.com/careers/"
+    },
+    {
+      "company": "HPCL",
+      "min_cgpa": 7.24,
+      "avg_cgpa": 8.09,
+      "avg_ctc": 17.36,
+      "offers": 4,
+      "website": "https://www.hindustanpetroleum.com/careers"
+    },
+    {
+      "company": "Axis My India Limited",
+      "min_cgpa": 7.28,
+      "avg_cgpa": 7.28,
+      "avg_ctc": 7.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Axis%20My%20India%20Limited%20official%20website"
+    },
+    {
+      "company": "JK Tyre",
+      "min_cgpa": 7.34,
+      "avg_cgpa": 7.34,
+      "avg_ctc": 7.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=JK%20Tyre%20official%20website"
+    },
+    {
+      "company": "Collins",
+      "min_cgpa": 7.37,
+      "avg_cgpa": 7.74,
+      "avg_ctc": 8.75,
+      "offers": 2,
+      "website": "https://jobs.collinsaerospace.com/"
+    },
+    {
+      "company": "Infineon",
+      "min_cgpa": 7.41,
+      "avg_cgpa": 7.66,
+      "avg_ctc": 11.24,
+      "offers": 2,
+      "website": "https://www.infineon.com/cms/en/careers/"
+    },
+    {
+      "company": "Deloitte",
+      "min_cgpa": 7.45,
+      "avg_cgpa": 7.45,
+      "avg_ctc": 8.1,
+      "offers": 1,
+      "website": "https://www2.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "Excellencia",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.47,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Excellencia%20official%20website"
+    },
+    {
+      "company": "Varroc",
+      "min_cgpa": 7.47,
+      "avg_cgpa": 7.49,
+      "avg_ctc": 11.5,
+      "offers": 2,
+      "website": "https://www.varroc.com/careers"
+    },
+    {
+      "company": "Bajaj Auto",
+      "min_cgpa": 7.48,
+      "avg_cgpa": 7.88,
+      "avg_ctc": 11.74,
+      "offers": 2,
+      "website": "https://www.bajajauto.com/careers"
+    },
+    {
+      "company": "ExxonMobil",
+      "min_cgpa": 7.58,
+      "avg_cgpa": 8.39,
+      "avg_ctc": 13.38,
+      "offers": 7,
+      "website": "https://corporate.exxonmobil.com/careers"
+    },
+    {
+      "company": "Aveva",
+      "min_cgpa": 7.62,
+      "avg_cgpa": 7.81,
+      "avg_ctc": 15.8,
+      "offers": 3,
+      "website": "https://www.aveva.com/en/about/careers/"
+    },
+    {
+      "company": "Accenture",
+      "min_cgpa": 7.65,
+      "avg_cgpa": 7.65,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "AbInBev",
+      "min_cgpa": 7.68,
+      "avg_cgpa": 7.68,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=AbInBev%20official%20website"
+    },
+    {
+      "company": "Ather",
+      "min_cgpa": 7.68,
+      "avg_cgpa": 8.15,
+      "avg_ctc": 12.0,
+      "offers": 5,
+      "website": "https://www.atherenergy.com/careers"
+    },
+    {
+      "company": "Accordian",
+      "min_cgpa": 7.69,
+      "avg_cgpa": 8.01,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Accordian%20official%20website"
+    },
+    {
+      "company": "Greenwood",
+      "min_cgpa": 7.73,
+      "avg_cgpa": 7.73,
+      "avg_ctc": 7.2,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Greenwood%20official%20website"
+    },
+    {
+      "company": "Becton Dickinson",
+      "min_cgpa": 7.74,
+      "avg_cgpa": 7.77,
+      "avg_ctc": 14.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Becton%20Dickinson%20official%20website"
+    },
+    {
+      "company": "Gramener",
+      "min_cgpa": 7.81,
+      "avg_cgpa": 7.81,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Gramener%20official%20website"
+    },
+    {
+      "company": "ICICI",
+      "min_cgpa": 7.81,
+      "avg_cgpa": 7.81,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://www.icicicareers.com/"
+    },
+    {
+      "company": "Increff",
+      "min_cgpa": 8.17,
+      "avg_cgpa": 8.17,
+      "avg_ctc": 20.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Increff%20official%20website"
+    },
+    {
+      "company": "Axis Bank",
+      "min_cgpa": 8.18,
+      "avg_cgpa": 8.18,
+      "avg_ctc": 8.2,
+      "offers": 1,
+      "website": "https://www.axisbank.com/careers"
+    },
+    {
+      "company": "Ideaforge",
+      "min_cgpa": 8.27,
+      "avg_cgpa": 8.27,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://ideaforge.co.in/career/"
+    },
+    {
+      "company": "Arup",
+      "min_cgpa": 8.31,
+      "avg_cgpa": 8.54,
+      "avg_ctc": 10.0,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Arup%20official%20website"
+    },
+    {
+      "company": "Blue Yonder",
+      "min_cgpa": 8.59,
+      "avg_cgpa": 8.59,
+      "avg_ctc": 12.6,
+      "offers": 1,
+      "website": "https://blueyonder.com/careers"
+    },
+    {
+      "company": "DCM Shriram",
+      "min_cgpa": 8.73,
+      "avg_cgpa": 8.73,
+      "avg_ctc": 18.5,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=DCM%20Shriram%20official%20website"
+    },
+    {
+      "company": "Chevron",
+      "min_cgpa": 8.76,
+      "avg_cgpa": 8.76,
+      "avg_ctc": 17.7,
+      "offers": 1,
+      "website": "https://www.chevron.com/careers"
+    },
+    {
+      "company": "Oracle",
+      "min_cgpa": 8.88,
+      "avg_cgpa": 9.1,
+      "avg_ctc": 34.1,
+      "offers": 2,
+      "website": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "Mastercard",
+      "min_cgpa": 9.14,
+      "avg_cgpa": 9.14,
+      "avg_ctc": 17.73,
+      "offers": 1,
+      "website": "https://careers.mastercard.com/"
+    }
+  ],
+  "MME": [
+    {
+      "company": "Nine Education",
+      "min_cgpa": 5.1,
+      "avg_cgpa": 5.1,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Nine%20Education%20official%20website"
+    },
+    {
+      "company": "Wayspire",
+      "min_cgpa": 5.81,
+      "avg_cgpa": 6.23,
+      "avg_ctc": 7.0,
+      "offers": 4,
+      "website": "https://www.google.com/search?q=Wayspire%20official%20website"
+    },
+    {
+      "company": "Nano Classes",
+      "min_cgpa": 6.09,
+      "avg_cgpa": 6.09,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Nano%20Classes%20official%20website"
+    },
+    {
+      "company": "Vesuvius",
+      "min_cgpa": 6.39,
+      "avg_cgpa": 7.22,
+      "avg_ctc": 9.5,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Vesuvius%20official%20website"
+    },
+    {
+      "company": "Infinity Learn",
+      "min_cgpa": 6.59,
+      "avg_cgpa": 7.54,
+      "avg_ctc": 8.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Infinity%20Learn%20official%20website"
+    },
+    {
+      "company": "Profinch",
+      "min_cgpa": 6.7,
+      "avg_cgpa": 7.03,
+      "avg_ctc": 8.0,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=Profinch%20official%20website"
+    },
+    {
+      "company": "Rashmi Metaliks",
+      "min_cgpa": 6.71,
+      "avg_cgpa": 7.3,
+      "avg_ctc": 12.6,
+      "offers": 7,
+      "website": "https://www.google.com/search?q=Rashmi%20Metaliks%20official%20website"
+    },
+    {
+      "company": "Simplotel",
+      "min_cgpa": 6.85,
+      "avg_cgpa": 6.85,
+      "avg_ctc": 7.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Simplotel%20official%20website"
+    },
+    {
+      "company": "Impact Analytics",
+      "min_cgpa": 7.0,
+      "avg_cgpa": 7.0,
+      "avg_ctc": 13.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Impact%20Analytics%20official%20website"
+    },
+    {
+      "company": "ZingHR",
+      "min_cgpa": 7.06,
+      "avg_cgpa": 7.44,
+      "avg_ctc": 7.33,
+      "offers": 3,
+      "website": "https://www.google.com/search?q=ZingHR%20official%20website"
+    },
+    {
+      "company": "Sigmoid Analytics",
+      "min_cgpa": 7.12,
+      "avg_cgpa": 7.64,
+      "avg_ctc": 8.67,
+      "offers": 3,
+      "website": "https://www.sigmoid.com/careers/"
+    },
+    {
+      "company": "Sedemac",
+      "min_cgpa": 7.18,
+      "avg_cgpa": 7.18,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Sedemac%20official%20website"
+    },
+    {
+      "company": "Quadrant Technologies",
+      "min_cgpa": 7.39,
+      "avg_cgpa": 7.39,
+      "avg_ctc": 6.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Quadrant%20Technologies%20official%20website"
+    },
+    {
+      "company": "Paltech",
+      "min_cgpa": 7.58,
+      "avg_cgpa": 7.85,
+      "avg_ctc": 8.0,
+      "offers": 5,
+      "website": "https://www.google.com/search?q=Paltech%20official%20website"
+    },
+    {
+      "company": "Blue Yonder",
+      "min_cgpa": 7.59,
+      "avg_cgpa": 7.59,
+      "avg_ctc": 12.6,
+      "offers": 1,
+      "website": "https://blueyonder.com/careers"
+    },
+    {
+      "company": "RIL",
+      "min_cgpa": 7.59,
+      "avg_cgpa": 8.44,
+      "avg_ctc": 8.0,
+      "offers": 2,
+      "website": "https://www.ril.com/careers"
+    },
+    {
+      "company": "Accenture KAI",
+      "min_cgpa": 7.65,
+      "avg_cgpa": 7.65,
+      "avg_ctc": 10.82,
+      "offers": 1,
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Quantium",
+      "min_cgpa": 7.65,
+      "avg_cgpa": 8.48,
+      "avg_ctc": 13.74,
+      "offers": 2,
+      "website": "https://www.google.com/search?q=Quantium%20official%20website"
+    },
+    {
+      "company": "Tredence",
+      "min_cgpa": 7.66,
+      "avg_cgpa": 7.66,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.tredence.com/careers"
+    },
+    {
+      "company": "Axis Bank",
+      "min_cgpa": 7.67,
+      "avg_cgpa": 7.94,
+      "avg_ctc": 8.1,
+      "offers": 2,
+      "website": "https://www.axisbank.com/careers"
+    },
+    {
+      "company": "NSE",
+      "min_cgpa": 7.85,
+      "avg_cgpa": 7.85,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.nseindia.com/national-stock-exchange/careers"
+    },
+    {
+      "company": "Zinnia",
+      "min_cgpa": 8.06,
+      "avg_cgpa": 8.06,
+      "avg_ctc": 17.6,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Zinnia%20official%20website"
+    },
+    {
+      "company": "Netradyne",
+      "min_cgpa": 8.12,
+      "avg_cgpa": 8.12,
+      "avg_ctc": 16.0,
+      "offers": 1,
+      "website": "https://netradyne.com/careers/"
+    },
+    {
+      "company": "Blackbuck",
+      "min_cgpa": 8.13,
+      "avg_cgpa": 8.13,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.blackbuck.com/careers"
+    },
+    {
+      "company": "Ira Commerce",
+      "min_cgpa": 8.13,
+      "avg_cgpa": 8.13,
+      "avg_ctc": 9.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Ira%20Commerce%20official%20website"
+    },
+    {
+      "company": "Zomato Hyperpure",
+      "min_cgpa": 8.16,
+      "avg_cgpa": 8.16,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.hyperpure.com/careers"
+    },
+    {
+      "company": "Synergy Marine Group",
+      "min_cgpa": 8.29,
+      "avg_cgpa": 8.29,
+      "avg_ctc": 12.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Synergy%20Marine%20Group%20official%20website"
+    },
+    {
+      "company": "Neterwala",
+      "min_cgpa": 8.52,
+      "avg_cgpa": 8.52,
+      "avg_ctc": 8.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Neterwala%20official%20website"
+    },
+    {
+      "company": "Bizacuity",
+      "min_cgpa": 8.64,
+      "avg_cgpa": 8.64,
+      "avg_ctc": 10.0,
+      "offers": 1,
+      "website": "https://www.google.com/search?q=Bizacuity%20official%20website"
+    }
+  ]
+}

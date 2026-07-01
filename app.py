@@ -225,7 +225,6 @@ def load_ml_assets():
     return None, None
 
 
-@st.cache_data
 def load_company_data():
     if os.path.exists(CUTOFFS_PATH):
         with open(CUTOFFS_PATH, 'r') as f:

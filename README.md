@@ -75,7 +75,7 @@ Before model training, the placement dataset was explored using an interactive P
 ![Skills Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134849.png)
 
 **Projects — Projects, Workshops & Hackathons vs Placement**
-![Projects Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134857.png)
+![Projects Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-07-01%20220237.png)
 
 **Insights — Deciding Factors for Placement**
 ![Insights](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134905.png)

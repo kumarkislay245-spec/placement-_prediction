@@ -66,22 +66,22 @@ This project uses a **Logistic Regression** model trained on student academic an
 Before model training, the placement dataset was explored using an interactive Power BI dashboard to identify the strongest predictors of placement outcomes.
 
 **Home — Key Metrics Overview**
-![Dashboard Home](Screenshot 2026-07-01 215136.png)
+![Dashboard Home](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-07-01%20215136.png)
 
 **Academics — CGPA & Marks vs Placement**
-![Academics Analysis](Screenshot 2026-06-29 134839.png)
+![Academics Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134839.png)
 
 **Skills — Technical Skills, Communication & Internship Impact**
-![Skills Analysis](Screenshot 2026-06-29 134849.png)
+![Skills Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134849.png)
 
 **Projects — Projects, Workshops & Hackathons vs Placement**
-![Projects Analysis](Screenshot 2026-06-29 134857.png)
+![Projects Analysis](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134857.png)
 
 **Insights — Deciding Factors for Placement**
-![Insights](Screenshot 2026-06-29 134905.png)
+![Insights](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-06-29%20134905.png)
 
 **Action — Recommended Steps for Better Placement Chances**
-![Action Steps](Screenshot 2026-07-01 214958.png)
+![Action Steps](https://github.com/kumarkislay245-spec/placement-_prediction/blob/main/Screenshot%202026-07-01%20214958.png)
 
 ### Key EDA Findings
 - Students with **CGPA ≥ 8** show a significantly higher placement rate compared to lower CGPA bands.
